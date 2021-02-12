@@ -56,7 +56,6 @@ python3-pip
 python3-polib
 python3-psutil
 python3-setuptools
-python-impacket
 python3-impacket
 redis-server
 redis-tools
