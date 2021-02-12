@@ -38,6 +38,7 @@ python3-bcrypt
 python3-cffi
 python3-cryptography
 python3-defusedxml
+python3-impacket
 python3-lxml
 python3-packaging
 python3-paramiko
