@@ -124,7 +124,7 @@ RUN mkdir /build && \
     #
     # Install Open Scanner Protocol for OpenVAS
     #
-    
+RUN pip3 install --no-binary :all: psutil    
 RUN mkdir /build && \
     cd /build && \
     wget --no-verbose https://github.com/greenbone/ospd-openvas/archive/$ospd_openvas.tar.gz && \
