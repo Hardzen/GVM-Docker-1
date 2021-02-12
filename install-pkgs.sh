@@ -55,7 +55,6 @@ python3-lxml
 python3-paramiko
 python3-pip
 python3-polib
-python3-psutil
 python3-setuptools
 python3-impacket
 redis-server
